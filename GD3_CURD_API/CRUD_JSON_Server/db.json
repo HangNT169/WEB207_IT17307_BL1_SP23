@@ -1,0 +1,23 @@
+{
+  "dongVat": [],
+  "thucVat": [
+    {
+      "name": "hangtest",
+      "loai": "hangloai",
+      "gioiTinh": "true",
+      "id": 1
+    },
+    {
+      "name": "nguyen",
+      "loai": "hâng2",
+      "gioiTinh": "true",
+      "id": 2
+    },
+    {
+      "name": "hang11",
+      "loai": "loai3",
+      "gioiTinh": false,
+      "id": 3
+    }
+  ]
+}
